@@ -43,17 +43,7 @@ work in progress
 ## 1. **Documentation**: Check the official documentation for detailed guides and references.
    
 ## 2. **Microsoft Teams**.
-   Elizaveta - evfurnika23@codingburgas.bg
-   
-   Daria - dalarichkina23@codingburgas.bg
-   
-   Varvara - vnsaphonova23@codingburgas.bg
-   
-   Svyatoslav - svsidorov23@codingburgas.bg
-
-   Denis - ddzavalishin23@codingburgas.bg
-
-   Nikol - nsstoyanova22@codingburgas.bg  
+   work in progress 
 ## 3. **Email Support**: For more personalized help, you can email us. The email adresses are equal to the ones above.
 
 ### Feel free to reach out through any of these options, and we'll be happy to assist you!❤️
