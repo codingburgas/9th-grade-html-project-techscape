@@ -1,5 +1,5 @@
 
-<img src="src/logo.png" alt="Logo" width="1000" height="775">
+<img src="project/public/logo.png" alt="Logo" width="1000" height="775">
 
 
 
