@@ -14,8 +14,8 @@ const fireCenter = {
 const employees = [
     {
         id: '1',
-        firstName: 'Димитър',
-        lastName: 'Петров',
+        firstName: 'Виктор',
+        lastName: 'Стоев',
         individualNumber: 'FD001',
         teamId: 'team1',
         rank: 'Captain',
@@ -50,8 +50,8 @@ const employees = [
     },
     {
         id: '5',
-        firstName: 'Стефан',
-        lastName: 'Димитров',
+        firstName: 'Симеон',
+        lastName: 'Николов',
         individualNumber: 'FD005',
         teamId: 'team3',
         rank: 'Sergeant',
