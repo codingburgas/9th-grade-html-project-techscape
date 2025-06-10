@@ -1,49 +1,62 @@
 
+<p align="center">
+</p>
+
+<h1 align="center"> TechScape </h1>
+<h3 align="center">Push limits, embrace growth</h3>  
+<br>
 <img src="project/public/logo.png" alt="Logo" width="1000" height="775">
+<br>
+
+## 📃TABLE OF CONTENTS 
+<h2 id="table-of-contents">Table of Contents</h2>
+
+<details open="open">
+    <summary>Table of Contents</summary>
+    <li><a href="#about-the-project">  The Project</a></li>
+    <li><a href="#used-technologies">  Technologies</a></li>
+    <li><a href="#download">    Download</a></li>
+</details>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## 💡ABOUT THE PROJECT 
+<h2 id="about-the-project">About The Project</h2>
+
+<p align="justify">
+    <p>Welcome to the Techscape project - our goal is to support firefighters in their daily work by giving them easy access to real-time information such as team schedules, vehicle availability, equipment details, and active incident reports, so they can respond faster, stay organized, and work more efficiently in critical situations..</p>
+</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
+<h2>🧑‍🎓Members</h2>
 
-
-
-# ⭑ 📃Table of Contents 
-  - [Introduction](#who-are-we-and-whats-our-project-about)
-  - [Team members](#team-members)
-  - [Our application](#what-our-application-does)
-  - [Technologies](#used-technologies)
-  - [Installing & running the project](#how-to-install-and-run-the-project)
-  - [Using the project](#how-to-use-the-project)
-  - [Help/Questions](#-where-to-get-help)
-
-# ⭑🧑‍🎓Who are we and what's our project about?
-
-## Welcome to the Techscape project - our goal is to support firefighters in their daily work by giving them easy access to real-time information such as team schedules, vehicle availability, equipment details, and active incident reports, so they can respond faster, stay organized, and work more efficiently in critical situations.
-
-# ⭑🫂Team Members
 - ### <a href = "https://github.com/darialarichkina"> FrontEnd Developer - Daria Andreevna Larichkina </a> 
 - ### <a href = "https://github.com/ddzavalishin23"> Scrum Trainer - Raya Krasimirova Kirilova </a>
 - ### <a href = "https://github.com/gyastoyanova23"> Designer - Gabriela Yasenova Stoyanova </a>
 - ### <a href = "https://github.com/Hristiyan1423"> BackEnd Developer - Hristiyan Atanasov Grozdev </a>
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-# ⭑💡What our Application does?
-## Our application consists of a main file, headers, and functions related to each other. This structure ensures a more efficient and comprehensive approach to code implementation. Most questions require numerical answers; however, there are also open-ended questions where users must type their responses. At the end of the test, users receive a grade based on their answers. The highest grade is 6, indicating an excellent result, while the lowest grade is 2, signifying a poor outcome.
-# ⭑💻Used Technologies:
-work in progress 
+##  💻Used Technologies
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" width="20" alt="Visual Studio 2022 Logo"> <a href="https://visualstudio.microsoft.com/vs/">Visual Studio 2022</a>
+- <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" alt="GitHub Logo"> <a href="https://github.com/">GitHub</a>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" width="20" alt="MS Word Logo"> <a href="project/public/TechScape.docx">MS Word</a>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" width="20" alt="MS PowerPoint Logo"> <a href="project/public/TechScape.pptx ">MS PowerPoint</a>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/2203px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png" width="20" alt="MS Teams Logo"> <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software">MS Teams</a>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-# ⭑📥How to Install and Run the Project
-### In order to install our project locally, open CMD and run this command:
-<pre>https://github.com/codingburgas/9th-grade-html-project-techscape.git</pre>
+<!-- CONTRIBUTORS -->
 
-# ⭑🚀How to Use the Project 
-work in progress 
 
-# ⭑📧 Where to Get Help
-### If you need help with this project, you can use the following resources:
+<h2 id="download">Download</h2>
 
-## 1. **Documentation**: Check the official documentation for detailed guides and references.
-   
-## 2. **Microsoft Teams**.
-   work in progress 
-## 3. **Email Support**: For more personalized help, you can email us. The email adresses are equal to the ones above.
+<p>To download our project, clone our repository by pasting this command in your command prompt:</p>
 
-### Feel free to reach out through any of these options, and we'll be happy to assist you!❤️
+<pre align="center">git clone "https://github.com/codingburgas/9th-grade-html-project-techscape.git"</pre>
+
+<hr>
+
+<h2 align="center">Thanks for checking out our repo!❤️</h2>
