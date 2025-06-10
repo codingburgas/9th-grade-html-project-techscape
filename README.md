@@ -9,7 +9,7 @@
 <br>
 
 ## 📃TABLE OF CONTENTS 
-<h2 id="table-of-contents">Table of Contents</h2>
+
 
 <details open="open">
     <summary>Table of Contents</summary>
@@ -21,10 +21,9 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 💡ABOUT THE PROJECT 
-<h2 id="about-the-project">About The Project</h2>
 
 <p align="justify">
-    <p>Welcome to the Techscape project - our goal is to support firefighters in their daily work by giving them easy access to real-time information such as team schedules, vehicle availability, equipment details, and active incident reports, so they can respond faster, stay organized, and work more efficiently in critical situations..</p>
+    <p>Welcome to the Techscape project - our goal is to support firefighters in their daily work by giving them easy access to real-time information such as team schedules, vehicle availability, equipment details, and active incident reports, so they can respond faster, stay organized, and work more efficiently in critical situations.</p>
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
